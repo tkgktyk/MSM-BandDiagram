@@ -11,6 +11,8 @@ This project provides a tool to calculate and plot the energy band diagram of a 
 -   **Configurable Parameters**: Easily configure physical parameters through a JSON file or command-line arguments.
 -   **Save to File**: Save the generated band diagram to an image file.
 
+![Example Band Diagram](assets/example_before.png)![Example Band Diagram](assets/example_after.png)
+
 ## Limitations
 
 - This tool does not include a feature to calculate the depletion width.
