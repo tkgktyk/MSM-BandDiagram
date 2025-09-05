@@ -1,6 +1,6 @@
 # MSM Band Diagram Plotter
 
-This project provides a tool to calculate and plot the energy band diagram of a Metal-Semiconductor-Metal (MSM) structure. It can be used as a command-line interface (CLI) or a graphical user interface (GUI).
+This project provides a tool to calculate and plot the energy band diagram of a Metal-Semiconductor-Metal (MSM) structure, based on the Mott-Schottky theory. It is intended to help users confirm the basic concepts of metal-semiconductor junctions and Schottky diodes. The tool can be used as a command-line interface (CLI) or a graphical user interface (GUI).
 
 ## Features
 
