@@ -1,0 +1,12 @@
+{
+  "chi": 4.05,
+  "eg": 1.12,
+  "doping_type": "n",
+  "fermi_shift": 0.2,
+  "wf_left": 4.2,
+  "label_left": "Al (from config)",
+  "wf_right": 5.1,
+  "label_right": "Au (from config)",
+  "bias": 0.0,
+  "output": "config_output.png"
+}
